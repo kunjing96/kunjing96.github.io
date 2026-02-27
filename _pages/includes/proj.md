@@ -1,2 +1,0 @@
-# 💰 Funding
-To be added 
