@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kun Jing"
+title                    : "Kun Jing (景琨)"
 description              : "Focusing on efficient model designing."
 repository               : "kunjing96/kunjing96.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kun Jing"
+  name             : "Kun Jing (景琨)"
   avatar           : "images/KunJing.png"
   bio              : "Anhui University"
   location         : "Hefei, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : kunjing96 # e.g., "github username"
+  github           : "kunjing96" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
