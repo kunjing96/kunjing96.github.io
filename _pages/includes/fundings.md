@@ -1,2 +1,2 @@
-# 💰 Funding
+# 💰 Fundings
 To be added
