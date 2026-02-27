@@ -3,4 +3,4 @@
 - *2014.09 - 2018.06*, Undergraduate, School of Automation, Chongqing University of Posts and Telecommunications, Chongqing.
 
 # 💻 Experiences
-To be added
+- *2024.01 - Present*, Lecturer, School of Internet, Anhui University, Hehei.
