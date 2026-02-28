@@ -1,8 +1,8 @@
 # 📝 Publications 
 - `TETCI 2025` [A Survey on Model Compression for Transformer-Based Large Language Models
-](https://ieeexplore.ieee.org/document/11408261), Kun Jing, Yucheng Zhang, Xiangqian Wang, Zhaohong Jia.
-- `IJPRAI 2025` [Efficient Compression of Large Language Model based on Hybrid Layer and Channel Pruning](https://www.worldscientific.com/doi/abs/10.1142/s0218001425580042), Ruixuan Lu, Kun Jing, Shichuan Ding, Zhaohong Jia, Jun Hang, Xiaoping Huang.
-- `Neurocomputing 2025` [Zero-Shot Neural Architecture Search with Weighted Response Correlation](https://www.sciencedirect.com/science/article/pii/S0925231225019010), Kun Jing, Luoyu Chen, Jungang Xu, Jianwei Tai, Yiyu Wang, Shuaimin Li.
+](https://ieeexplore.ieee.org/document/11408261), **Kun Jing**, Yucheng Zhang, Xiangqian Wang, Zhaohong Jia.
+- `IJPRAI 2025` [Efficient Compression of Large Language Model based on Hybrid Layer and Channel Pruning](https://www.worldscientific.com/doi/abs/10.1142/s0218001425580042), Ruixuan Lu, **Kun Jing**, Shichuan Ding, Zhaohong Jia, Jun Hang, Xiaoping Huang.
+- `Neurocomputing 2025` [Zero-Shot Neural Architecture Search with Weighted Response Correlation](https://www.sciencedirect.com/science/article/pii/S0925231225019010), **Kun Jing**, Luoyu Chen, Jungang Xu, Jianwei Tai, Yiyu Wang, Shuaimin Li.
 - `ICANN 2024` [Feature Activation-Driven Zero-Shot NAS: A Contrastive Learning Framework](https://link.springer.com/chapter/10.1007/978-3-031-72332-2_18), Di Wang, Xunzhi Xiang, **Kun Jing**, Jungang Xu.
 - `ICANN 2024` [NAS-Bench-Compre: A Comprehensive Neural Architecture Search Benchmark with Customizable Components](https://link.springer.com/chapter/10.1007/978-3-031-72332-2_19), Di Wang, **Kun Jing**, Jungang Xu.
 - `KSEM 2024` [Improving Image Captioning with Image Concepts of Words](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_27), Yiyu Wang, Xunzhi Xiang, **Kun Jing**, Jungang Xu, Yingfei Sun.
